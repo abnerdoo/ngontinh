@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngôn tình đa thể loại | Đỗ Hữu Nhật</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ngôn tình đa thể loại | Đỗ Hữu Nhật</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>http://localhost:1313/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket: Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/about/</guid>
+      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://localhost:1313/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://localhost:1313/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://localhost:1313/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giá cậu cười với tớ thêm lần nữa</title>
+      <link>http://localhost:1313/2019/01/gi%C3%A1-c%E1%BA%ADu-c%C6%B0%E1%BB%9Di-v%E1%BB%9Bi-t%E1%BB%9B-th%C3%AAm-l%E1%BA%A7n-n%E1%BB%AFa/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2019/01/gi%C3%A1-c%E1%BA%ADu-c%C6%B0%E1%BB%9Di-v%E1%BB%9Bi-t%E1%BB%9B-th%C3%AAm-l%E1%BA%A7n-n%E1%BB%AFa/</guid>
+      <description>Giá cậu cười với tớ thêm lần nữa &amp;ldquo;Giá Như&amp;rdquo;&amp;rdquo; Lần đầu tiên nhìn thấy Vi, tim tôi đã như rơi mất một nhịp. Cô bạn mới chuyển về khiến cả khối xôn xao.
+ Băng tan  Lần đầu tiên nhìn thấy Vi, tim tôi đã như rơi mất một nhịp. Cô bạn mới chuyển về khiến cả khối xôn xao. Vi tóc dài đen mượt, cao ráo, trắng xinh như đám mây xốp đầu xuân, và đặc biệt nhất, cô nói tiếng anh êm như người bản ngữ.</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/project/deep-learning/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://localhost:1313/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>http://localhost:1313/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/publication/person-re-identification/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
+      <link>http://localhost:1313/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
+      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elements showcase</title>
+      <link>http://localhost:1313/2015/05/elements-showcase/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/05/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cover image showcase</title>
+      <link>http://localhost:1313/2015/05/cover-image-showcase/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/05/cover-image-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>highlighted code showcase</title>
+      <link>http://localhost:1313/2015/03/highlighted-code-showcase/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2015/03/highlighted-code-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tags plugins showcase</title>
+      <link>http://localhost:1313/2014/10/tags-plugins-showcase/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/10/tags-plugins-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden social section showcase</title>
+      <link>http://localhost:1313/2014/08/hidden-social-section-showcase/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/08/hidden-social-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden tag section showcase</title>
+      <link>http://localhost:1313/2014/08/hidden-tag-section-showcase/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/08/hidden-tag-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden pagination showcase</title>
+      <link>http://localhost:1313/2014/08/hidden-pagination-showcase/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/08/hidden-pagination-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Video integrations showcase</title>
+      <link>http://localhost:1313/2014/08/video-integrations-showcase/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/08/video-integrations-showcase/</guid>
+      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>中文測試</title>
+      <link>http://localhost:1313/2013/10/chinese-test/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2013/10/chinese-test/</guid>
+      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>http://localhost:1313/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/publication/clothing-search/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Image gallery showcase</title>
+      <link>http://localhost:1313/2013/02/image-gallery-showcase/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2013/02/image-gallery-showcase/</guid>
+      <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本語テスト</title>
+      <link>http://localhost:1313/2013/01/japanese-test/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2013/01/japanese-test/</guid>
+      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

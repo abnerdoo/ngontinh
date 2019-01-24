@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Ngôn tình đa thể loại | Đỗ Hữu Nhật</title>
-    <link>http://localhost:1313/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Ngôn tình đa thể loại | Đỗ Hữu Nhật</description>
+    <title>Recent &amp; Upcoming Talks on Truyện Ngôn Tình - Truyện tình cảm rất hay và cảm động mới nhất đã full | Đỗ Hữu Nhật</title>
+    <link>https://toiyeumy.github.io/ngontinh/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Truyện Ngôn Tình - Truyện tình cảm rất hay và cảm động mới nhất đã full | Đỗ Hữu Nhật</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toiyeumy.github.io/ngontinh/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/talk/example-talk/</link>
+      <link>https://toiyeumy.github.io/ngontinh/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <guid>https://toiyeumy.github.io/ngontinh/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

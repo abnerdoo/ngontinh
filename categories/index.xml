@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ngôn tình đa thể loại | Đỗ Hữu Nhật</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Ngôn tình đa thể loại | Đỗ Hữu Nhật</description>
+    <title>Categories on Truyện Ngôn Tình - Truyện tình cảm rất hay và cảm động mới nhất đã full | Đỗ Hữu Nhật</title>
+    <link>https://toiyeumy.github.io/ngontinh/categories/</link>
+    <description>Recent content in Categories on Truyện Ngôn Tình - Truyện tình cảm rất hay và cảm động mới nhất đã full | Đỗ Hữu Nhật</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toiyeumy.github.io/ngontinh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Features</title>
-      <link>http://localhost:1313/categories/features/</link>
+      <link>https://toiyeumy.github.io/ngontinh/categories/features/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/features/</guid>
+      <guid>https://toiyeumy.github.io/ngontinh/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ngontinh</title>
-      <link>http://localhost:1313/categories/ngontinh/</link>
+      <link>https://toiyeumy.github.io/ngontinh/categories/ngontinh/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/ngontinh/</guid>
+      <guid>https://toiyeumy.github.io/ngontinh/categories/ngontinh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Releases</title>
-      <link>http://localhost:1313/categories/releases/</link>
+      <link>https://toiyeumy.github.io/ngontinh/categories/releases/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/releases/</guid>
+      <guid>https://toiyeumy.github.io/ngontinh/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tranquilpeak</title>
-      <link>http://localhost:1313/categories/tranquilpeak/</link>
+      <link>https://toiyeumy.github.io/ngontinh/categories/tranquilpeak/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/tranquilpeak/</guid>
+      <guid>https://toiyeumy.github.io/ngontinh/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
